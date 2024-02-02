@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gtc559
 - 👀 I’m interested in web development and software development.
-- 🌱 I’m currently learning HTML,CSS,React and java.
+- 🌱 I’m currently using java full stack as my tech skill.
 - 💞️ I’m looking to collaborate on Interactive Frontend projects
 - 📫 How to reach me:https://www.linkedin.com/in/vishal-soni-7a7739215/
 
